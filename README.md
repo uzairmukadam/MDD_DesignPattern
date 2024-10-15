@@ -38,3 +38,7 @@ This program demonstrates the Factory Method Design Pattern by simulating a stor
     Selling a pen...
     Selling a pencil...
     ```
+
+## Class Diagram
+
+![Class Diagram](diagram/class_diagram.png)
