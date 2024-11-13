@@ -42,3 +42,8 @@ This program demonstrates the Factory Method Design Pattern by simulating a stor
 ## Class Diagram
 
 ![Class Diagram](diagram/class_diagram.png)
+
+
+## Requirements Diagram
+
+![Class Diagram](diagram/requirements_diagram.png)
